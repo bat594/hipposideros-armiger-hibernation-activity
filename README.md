@@ -90,7 +90,3 @@ The included derived tables support reproduction of Figures 2–7. They do not c
 - Software, scripts and project documentation: MIT License (`LICENSE`).
 - Processed and derived research datasets under `data/`: Creative Commons Attribution 4.0 International (`LICENSE-DATA.md`).
 - Third-party dependencies and materials remain subject to their respective licenses.
-
-## Citation
-
-Citation metadata are provided in `CITATION.cff`. Please cite the specific software version used. A version-specific archive DOI should be cited only after the corresponding Zenodo record has been published and the DOI resolves to that release.
