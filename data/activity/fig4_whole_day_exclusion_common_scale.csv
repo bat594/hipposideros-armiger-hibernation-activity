@@ -1,0 +1,4 @@
+﻿variant,calendar_days,common_scale_amplitude,ls_peak_period_hours,empirical_p
+primary,47,0.2670534124223894,24.07,0.002
+exclude_all_human_days,37,0.2762110594431285,24.01,0.002
+exclude_all_affected_days,30,0.2885844690063844,24.0,0.002

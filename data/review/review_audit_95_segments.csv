@@ -1,0 +1,96 @@
+﻿review_id,segment_no,date,video_id,listed_start_s,listed_end_s,exact_start_s,exact_end_s,classification,person_visible,short_bright_or_near,genuine_bat_activity,original_treatment,applied_to_primary,applied_rule,applied_start_s,applied_end_s,notes
+R001,1,2026-02-18,D01_20260218160955,606.0,1206.0,,55680.0,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,606.0,1206.0,
+R002,1,2026-02-21,D01_20260221104208,1074.0,1672.0,,,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,1074.0,1672.0,
+R003,1,2026-02-22,D01_20260222153959,2.0,2.0,37320.0,,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,2.0,2.0,
+R003,2,2026-02-22,D01_20260222145259,2222.0,2820.0,,,Bat activity,Uncertain,No,Yes,Exclude full segment,True,review_full_segment,2222.0,2820.0,"No flashlight exposure was visible during this interval; however, flashlight exposure occurred approximately 10 min earlier (at 10:22), so this interval was treated as affected."
+R004,1,2026-02-28,D01_20260228101440,2122.0,2720.0,,,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,2122.0,2720.0,
+R005,1,2026-03-03,D01_20260303094128,514.0,1112.0,53880.0,,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,514.0,1112.0,
+R006,1,2026-03-03,D01_20260303094128,1114.0,1712.0,,,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,1114.0,1712.0,
+R007,1,2026-03-05,D01_20260305114735,1946.0,2546.0,,,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,1946.0,2546.0,
+R008,1,2026-03-05,D01_20260305124458,304.0,902.0,,,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,304.0,902.0,
+R009,1,2026-03-15,D01_20260315091328,2.0,392.0,10320.0,33360.0,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,2.0,392.0,Flashlight exposure was intermittent rather than continuous.
+R009,2,2026-03-15,D01_20260315082628,2614.0,2820.0,,,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,2614.0,2820.0,
+R010,1,2026-03-22,D01_20260322225123,2.0,518.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,Frequent flight activity was observed.
+R010,2,2026-03-22,D01_20260322220425,2736.0,2818.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R011,1,2026-03-26,D01_20260326143311,2.0,410.0,3360.0,,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,2.0,410.0,
+R011,2,2026-03-26,D01_20260326134613,2628.0,2818.0,,,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,2628.0,2818.0,
+R012,1,2026-03-26,D01_20260326143311,410.0,1010.0,,,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,410.0,1010.0,
+R013,1,2026-03-28,D01_20260328150509,2.0,292.0,4860.0,9660.0,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,2.0,292.0,
+R013,2,2026-03-28,D01_20260328141811,2510.0,2818.0,,,Bat activity,Uncertain,No,Yes,Retain,False,review_keep,,,
+R014,1,2026-03-28,D01_20260328150509,292.0,892.0,,,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,292.0,892.0,
+R015,1,2026-03-30,D01_20260330210554,848.0,1446.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,Flight activity was observed.
+R016,1,2026-03-30,D01_20260330215252,2.0,428.0,,,Brief exposure / near-camera flight,No,No,Yes,Retain,False,review_keep,,,Frequent flight activity was observed; some bats approached the camera.
+R016,2,2026-03-30,D01_20260330210554,2648.0,2818.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,Flight activity was also relatively frequent.
+R017,1,2026-04-01,D01_20260401143511,890.0,1490.0,,,Camera or image artefact,No,No,No,Exclude full segment,True,review_full_segment,890.0,1490.0,
+R018,1,2026-04-01,D01_20260401191659,2.0,182.0,,,Brief exposure / near-camera flight,No,No,Yes,Retain,False,review_keep,,,
+R018,2,2026-04-01,D01_20260401183001,2400.0,2818.0,,,Brief exposure / near-camera flight,No,No,Yes,Retain,False,review_keep,,,
+R019,1,2026-04-01,D01_20260401191659,182.0,782.0,,,Brief exposure / near-camera flight,No,No,Yes,Retain,False,review_keep,,,
+R020,1,2026-04-02,D01_20260402123015,586.0,1186.0,,,Human disturbance,Yes,Yes,No,Exclude full segment,True,review_full_segment,586.0,1186.0,
+R021,1,2026-04-03,D01_20260403181500,2102.0,2700.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,Flight activity occurred close to the camera.
+R022,1,2026-04-03,D01_20260403190158,2.0,482.0,,,Bat activity,No,Yes,Yes,Retain,False,review_keep,,,Frequent flight activity was observed.
+R022,2,2026-04-03,D01_20260403181500,2702.0,2818.0,,,Bat activity,No,Yes,Yes,Retain,False,review_keep,,,Frequent flight activity was observed.
+R023,1,2026-04-03,D01_20260403190158,484.0,1082.0,,,Brief exposure / near-camera flight,No,Yes,Yes,Retain,False,review_keep,,,
+R024,1,2026-04-04,D01_20260404183059,542.0,1142.0,,,Bat activity,No,Yes,Yes,Retain,False,review_keep,,,
+R025,1,2026-04-04,D01_20260404183059,1142.0,1742.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,"Frequent movement across the field of view was observed; some bats approached the camera, but not at very close range."
+R026,1,2026-04-05,D01_20260405184657,184.0,784.0,,,Bat activity,No,Yes,Yes,Retain,False,review_keep,,,
+R027,1,2026-04-06,D01_20260406190255,426.0,1026.0,,,Bat activity,No,Yes,Yes,Retain,False,review_keep,,,
+R028,1,2026-02-22,D01_20260222180053,1748.0,2348.0,,,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,1748.0,2348.0,
+R029,1,2026-02-22,D01_20260222184751,130.0,730.0,,,Human disturbance,Yes,Yes,Yes,Exclude full segment,True,review_full_segment,130.0,730.0,
+R030,1,2026-02-24,D01_20260224034027,2.0,574.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R030,2,2026-02-24,D01_20260224025329,2792.0,2818.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R031,1,2026-02-25,D01_20260225233037,564.0,1164.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R032,1,2026-03-08,D01_20260308233308,414.0,1012.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R033,1,2026-03-14,D01_20260314212856,1266.0,1864.0,,,Bat activity,No,Yes,Yes,Retain,False,review_keep,,,
+R034,1,2026-03-15,D01_20260315113422,940.0,1538.0,,,Bat activity,No,Yes,Yes,Retain,False,review_keep,,,
+R035,1,2026-03-21,D01_20260321223525,2.0,276.0,,,Bat activity,No,Yes,Yes,Retain,False,review_keep,,,
+R035,2,2026-03-21,D01_20260321214827,2494.0,2818.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R036,1,2026-03-22,D01_20260322233821,100.0,700.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R037,1,2026-03-23,D01_20260323160440,2.0,320.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R037,2,2026-03-23,D01_20260323151742,2540.0,2818.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R038,1,2026-03-23,D01_20260323182534,268.0,866.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R039,1,2026-03-23,D01_20260323204628,2014.0,2612.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R040,1,2026-03-26,D01_20260326002747,1934.0,2534.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R041,1,2026-03-26,D01_20260326011445,916.0,1516.0,,,Bat activity,No,Yes,Yes,Retain,False,review_keep,,,
+R042,1,2026-03-27,D01_20260327175703,1978.0,2578.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R043,1,2026-03-28,D01_20260328071530,2.0,270.0,,,Bat activity,No,No,Uncertain,Retain,False,review_keep,,,The image appeared slightly out of focus during this interval.
+R043,2,2026-03-28,D01_20260328062832,2490.0,2818.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R044,1,2026-02-15,D01_20260215002937,2.0,24.0,,,Brief exposure / near-camera flight,No,Yes,Yes,Retain,False,review_keep,,,
+R044,2,2026-02-15,D01_20260214234239,2242.0,2818.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R045,1,2026-02-16,D01_20260216100912,650.0,1248.0,,,Other anomaly,Uncertain,Yes,Yes,Exclude disturbance interval,True,conservative_full_segment_missing_partial_times,650.0,1248.0,A ring-shaped bright artefact appeared in the background region.
+R046,1,2026-02-17,D01_20260217234337,2.0,384.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R046,2,2026-02-17,D01_20260217225639,2602.0,2818.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R047,1,2026-02-18,D01_20260218174353,2.0,368.0,,,Bat activity,No,Yes,Yes,Retain,False,review_keep,,,
+R047,2,2026-02-18,D01_20260218165655,2586.0,2818.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R048,1,2026-02-19,D01_20260219131804,2.0,116.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R048,2,2026-02-19,D01_20260219123106,2336.0,2818.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R049,1,2026-02-20,D01_20260220085214,468.0,1066.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R050,1,2026-02-21,D01_20260221112908,2.0,52.0,,,Bat activity,Yes,Yes,Yes,Retain,True,conservative_person_present_overrides_keep,2.0,52.0,
+R050,2,2026-02-21,D01_20260221104208,2274.0,2820.0,,,Human disturbance,Yes,No,Yes,Exclude full segment,True,review_full_segment,2274.0,2820.0,"No flashlight exposure was identified during this interval; exposure was observed earlier in the video, at approximately 22 min."
+R051,1,2026-02-23,D01_20260223195048,554.0,1152.0,,,Brief exposure / near-camera flight,No,No,Yes,Exclude disturbance interval,True,conservative_full_segment_missing_partial_times,554.0,1152.0,
+R052,1,2026-02-26,D01_20260226085417,2.0,344.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R052,2,2026-02-26,D01_20260226080717,2564.0,2820.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R053,1,2026-02-27,D01_20260227121910,1252.0,1850.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,The image brightened briefly; the change was short-lived and subtle.
+R054,1,2026-03-01,D01_20260301173414,2148.0,2746.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R055,1,2026-03-04,D01_20260304143918,2.0,42.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R055,2,2026-03-04,D01_20260304135219,2262.0,2819.0,,,Camera or image artefact,No,No,Yes,Exclude full segment,True,review_full_segment,2262.0,2819.0,
+R056,1,2026-03-06,D01_20260306181921,1240.0,1840.0,,,Other anomaly,No,No,Yes,Exclude disturbance interval,True,conservative_full_segment_missing_partial_times,1240.0,1840.0,An insect passed in front of the camera at approximately 20 min; a bat was observed flying subsequently.
+R057,1,2026-03-07,D01_20260307051653,1988.0,2588.0,,,Brief exposure / near-camera flight,No,Yes,Yes,Retain,False,review_keep,,,
+R058,1,2026-03-09,D01_20260309155926,1236.0,1834.0,,,Other anomaly,No,No,No,Exclude full segment,True,review_full_segment,1236.0,1834.0,"An insect may have been on the camera, producing intermittent partial-ring artefacts."
+R059,1,2026-03-10,D01_20260310223109,2.0,532.0,,,Brief exposure / near-camera flight,No,Yes,Yes,Retain,False,review_keep,,,
+R059,2,2026-03-10,D01_20260310214411,2750.0,2818.0,,,Brief exposure / near-camera flight,No,Yes,Yes,Retain,False,review_keep,,,
+R060,1,2026-03-13,D01_20260313193902,1860.0,2458.0,,,Brief exposure / near-camera flight,No,Yes,Yes,Retain,False,review_keep,,,
+R061,1,2026-03-16,D01_20260316092926,2.0,34.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R061,2,2026-03-16,D01_20260316084228,2254.0,2818.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R062,1,2026-03-17,D01_20260317190951,610.0,1210.0,,,Brief exposure / near-camera flight,No,Yes,Yes,Retain,False,review_keep,,,
+R063,1,2026-03-18,D01_20260318214729,752.0,1352.0,,,Brief exposure / near-camera flight,No,Yes,Yes,Retain,False,review_keep,,,
+R064,1,2026-03-19,D01_20260319194234,2.0,446.0,,,Brief exposure / near-camera flight,No,Yes,Yes,Retain,False,review_keep,,,
+R064,2,2026-03-19,D01_20260319185536,2666.0,2818.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R065,1,2026-03-20,D01_20260320230625,1416.0,2016.0,,,Brief exposure / near-camera flight,No,Yes,Yes,Retain,False,review_keep,,,
+R066,1,2026-03-24,D01_20260324201612,2.0,228.0,,,Bat activity,No,Yes,Yes,Retain,False,review_keep,,,
+R066,2,2026-03-24,D01_20260324192912,2450.0,2820.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R067,1,2026-03-25,D01_20260325211955,606.0,1206.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R068,1,2026-03-29,D01_20260329182901,1860.0,2460.0,,,Brief exposure / near-camera flight,No,Yes,Yes,Retain,False,review_keep,,,
+R069,1,2026-03-31,D01_20260331001346,976.0,1574.0,,,Other anomaly,No,No,No,Exclude full segment,True,review_full_segment,976.0,1574.0,The movement may have been caused by an insect antenna.
+R070,1,2026-02-15,D01_20260215165556,1446.0,2044.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R071,1,2026-02-28,D01_20260228110140,1702.0,2300.0,,,Bat activity,No,No,Yes,Retain,False,review_keep,,,
+R072,1,2026-03-22,D01_20260322185633,2008.0,2608.0,,,Brief exposure / near-camera flight,No,Yes,Yes,Retain,False,review_keep,,,

@@ -1,0 +1,29 @@
+﻿review_id,segment_no,date,video_id,start_s,end_s,classification,person_visible,original_treatment,applied_rule,notes
+R001,1,2026-02-18,D01_20260218160955,606.0,1206.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R002,1,2026-02-21,D01_20260221104208,1074.0,1672.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R003,1,2026-02-22,D01_20260222153959,2.0,2.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R003,2,2026-02-22,D01_20260222145259,2222.0,2820.0,Bat activity,Uncertain,Exclude full segment,review_full_segment,"No flashlight exposure was visible during this interval; however, flashlight exposure occurred approximately 10 min earlier (at 10:22), so this interval was treated as affected."
+R004,1,2026-02-28,D01_20260228101440,2122.0,2720.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R005,1,2026-03-03,D01_20260303094128,514.0,1112.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R006,1,2026-03-03,D01_20260303094128,1114.0,1712.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R007,1,2026-03-05,D01_20260305114735,1946.0,2546.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R008,1,2026-03-05,D01_20260305124458,304.0,902.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R009,1,2026-03-15,D01_20260315091328,2.0,392.0,Human disturbance,Yes,Exclude full segment,review_full_segment,Flashlight exposure was intermittent rather than continuous.
+R009,2,2026-03-15,D01_20260315082628,2614.0,2820.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R011,1,2026-03-26,D01_20260326143311,2.0,410.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R011,2,2026-03-26,D01_20260326134613,2628.0,2818.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R012,1,2026-03-26,D01_20260326143311,410.0,1010.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R013,1,2026-03-28,D01_20260328150509,2.0,292.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R014,1,2026-03-28,D01_20260328150509,292.0,892.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R017,1,2026-04-01,D01_20260401143511,890.0,1490.0,Camera or image artefact,No,Exclude full segment,review_full_segment,
+R020,1,2026-04-02,D01_20260402123015,586.0,1186.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R028,1,2026-02-22,D01_20260222180053,1748.0,2348.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R029,1,2026-02-22,D01_20260222184751,130.0,730.0,Human disturbance,Yes,Exclude full segment,review_full_segment,
+R045,1,2026-02-16,D01_20260216100912,650.0,1248.0,Other anomaly,Uncertain,Exclude disturbance interval,conservative_full_segment_missing_partial_times,A ring-shaped bright artefact appeared in the background region.
+R050,1,2026-02-21,D01_20260221112908,2.0,52.0,Bat activity,Yes,Retain,conservative_person_present_overrides_keep,
+R050,2,2026-02-21,D01_20260221104208,2274.0,2820.0,Human disturbance,Yes,Exclude full segment,review_full_segment,"No flashlight exposure was identified during this interval; exposure was observed earlier in the video, at approximately 22 min."
+R051,1,2026-02-23,D01_20260223195048,554.0,1152.0,Brief exposure / near-camera flight,No,Exclude disturbance interval,conservative_full_segment_missing_partial_times,
+R055,2,2026-03-04,D01_20260304135219,2262.0,2819.0,Camera or image artefact,No,Exclude full segment,review_full_segment,
+R056,1,2026-03-06,D01_20260306181921,1240.0,1840.0,Other anomaly,No,Exclude disturbance interval,conservative_full_segment_missing_partial_times,An insect passed in front of the camera at approximately 20 min; a bat was observed flying subsequently.
+R058,1,2026-03-09,D01_20260309155926,1236.0,1834.0,Other anomaly,No,Exclude full segment,review_full_segment,"An insect may have been on the camera, producing intermittent partial-ring artefacts."
+R069,1,2026-03-31,D01_20260331001346,976.0,1574.0,Other anomaly,No,Exclude full segment,review_full_segment,The movement may have been caused by an insect antenna.

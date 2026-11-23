@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the specific version used."
+title: "Hipposideros armiger Hibernation Activity Analysis"
+version: "1.0.0"
+authors:
+  - family-names: "Ouyang"
+    given-names: "Ke"
+    affiliation: "Jishou University"
+url: "https://github.com/bat594/hipposideros-armiger-hibernation-activity"
+repository-code: "https://github.com/bat594/hipposideros-armiger-hibernation-activity"
+license: "MIT"
+keywords:
+  - "Hipposideros armiger"
+  - "hibernation"
+  - "bat activity"
+  - "infrared video"
+  - "frame differencing"
+  - "activity quantification"
+  - "threshold sensitivity"

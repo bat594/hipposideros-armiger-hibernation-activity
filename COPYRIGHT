@@ -1,0 +1,12 @@
+Copyright and licensing summary
+
+- Software source code, scripts, and accompanying project documentation:
+  MIT License; see LICENSE.
+- Processed and derived research datasets in data/:
+  Creative Commons Attribution 4.0 International (CC BY 4.0); see
+  LICENSE-DATA.md.
+- Third-party dependencies retain their own licenses.
+- Original thermal videos and the original behavioural workbook are not
+  included and are not licensed by this repository.
+- If an individual file contains a separate rights notice, that notice
+  takes precedence for that file.

@@ -1,0 +1,41 @@
+{
+  "base_dir": "../..",
+  "output_dir": "results/threshold_sensitivity",
+  "time_column": "window_end_datetime",
+  "activity_column": "group_motion_load_per_s_v5_4_primary",
+  "thresholds": [
+    5,
+    6,
+    7
+  ],
+  "baseline_threshold": 6,
+  "expected_interval_seconds": 2.0,
+  "minimum_common_coverage_fraction": 0.95,
+  "dates": {
+    "2026-02-20": {
+      "5": "data/threshold_sensitivity/2026-02-20/k5/merged_group_activity_2s.csv",
+      "6": "data/threshold_sensitivity/2026-02-20/k6/merged_group_activity_2s.csv",
+      "7": "data/threshold_sensitivity/2026-02-20/k7/merged_group_activity_2s.csv"
+    },
+    "2026-02-21": {
+      "5": "data/threshold_sensitivity/2026-02-21/k5/merged_group_activity_2s.csv",
+      "6": "data/threshold_sensitivity/2026-02-21/k6/merged_group_activity_2s.csv",
+      "7": "data/threshold_sensitivity/2026-02-21/k7/merged_group_activity_2s.csv"
+    },
+    "2026-03-17": {
+      "5": "data/threshold_sensitivity/2026-03-17/k5/merged_group_activity_2s.csv",
+      "6": "data/threshold_sensitivity/2026-03-17/k6/merged_group_activity_2s.csv",
+      "7": "data/threshold_sensitivity/2026-03-17/k7/merged_group_activity_2s.csv"
+    },
+    "2026-03-30": {
+      "5": "data/threshold_sensitivity/2026-03-30/k5/merged_group_activity_2s.csv",
+      "6": "data/threshold_sensitivity/2026-03-30/k6/merged_group_activity_2s.csv",
+      "7": "data/threshold_sensitivity/2026-03-30/k7/merged_group_activity_2s.csv"
+    },
+    "2026-04-01": {
+      "5": "data/threshold_sensitivity/2026-04-01/k5/merged_group_activity_2s.csv",
+      "6": "data/threshold_sensitivity/2026-04-01/k6/merged_group_activity_2s.csv",
+      "7": "data/threshold_sensitivity/2026-04-01/k7/merged_group_activity_2s.csv"
+    }
+  }
+}

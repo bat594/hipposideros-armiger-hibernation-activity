@@ -1,0 +1,11 @@
+10-min manual-validation reference statistics
+
+Number of windows: 30
+Manual reference: one final value per window, calculated as the arithmetic mean of the two observer-level window means. Separate observer-level counts are not distributed.
+
+Spearman rho: 0.652198208942
+P value: 9.41424939142e-05
+95% stratified-bootstrap confidence interval: [0.280924, 0.904353]
+
+The analysis can be reproduced with:
+python validation/10min_manual/analyze_10min_manual_validation.py

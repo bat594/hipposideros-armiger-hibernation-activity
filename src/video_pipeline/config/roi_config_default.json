@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "video": "PATH_TO_VIDEO_FILE",
+  "selection_frame_seconds": 0.0,
+  "resize_width": 960,
+  "regions": {
+    "A": {
+      "x": 433,
+      "y": 43,
+      "width": 149,
+      "height": 232,
+      "pixel_area": 34568
+    },
+    "B": {
+      "x": 588,
+      "y": 6,
+      "width": 274,
+      "height": 243,
+      "pixel_area": 66582
+    },
+    "C": {
+      "x": 621,
+      "y": 296,
+      "width": 314,
+      "height": 157,
+      "pixel_area": 49298
+    },
+    "background": {
+      "x": 260,
+      "y": 282,
+      "width": 350,
+      "height": 234,
+      "pixel_area": 81900
+    }
+  },
+  "notes": {
+    "A_B_C": "fixed non-overlapping bat-group regions",
+    "background": "empty-wall noise control; excluded from biological aggregation",
+    "comparability": "reuse these coordinates unless camera position changes"
+  }
+}
